@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on West Coast Project as Product Manager && Lead Web Developer
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Python
 
 ![Статистика](https://github-readme-stats.vercel.app/api?username=wilkinsonhere&show_icons=true&theme=radical)
 
