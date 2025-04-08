@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on West Coast Project as Product Manager && Lead Web Developer
+- 🔭 I’m currently working on West Coast Project as Product Manager
 - 🌱 I’m currently learning Swift
 
 ## 📫 Контакты
